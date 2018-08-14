@@ -8,7 +8,6 @@ Android Application to automate blood donation process to provide ease and relia
 <ul>
 <li>Android Studio</li>
 <li>Java</li>
-<li></li>
 </ul>
 
 ## Back-End
